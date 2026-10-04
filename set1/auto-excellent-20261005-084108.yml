@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 08:41:08
+version: '1.86'
+environment: production
+
+service:
+  name: judebycz
+  port: 3900
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 3
+  quality: excellent
