@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 07:10:06
+version: '1.80'
+environment: staging
+
+service:
+  name: agyprclu
+  port: 3440
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 1
+  quality: excellent
