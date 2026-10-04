@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-05 07:56:35
+version: '1.5'
+environment: staging
+
+service:
+  name: qgdrsxuc
+  port: 3366
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 58
+  retries: 1
+  quality: buggy
