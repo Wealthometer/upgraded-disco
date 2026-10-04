@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-05 08:44:25
+version: '1.18'
+environment: production
+
+service:
+  name: dlqsctve
+  port: 3600
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 46
+  retries: 1
+  quality: buggy
