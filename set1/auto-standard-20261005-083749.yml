@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 08:37:49
+version: '1.6'
+environment: development
+
+service:
+  name: wlmckovt
+  port: 3768
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 35
+  retries: 3
+  quality: standard
