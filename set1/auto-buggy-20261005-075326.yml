@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-05 07:53:26
+version: '1.22'
+environment: production
+
+service:
+  name: vajtkyuh
+  port: 3486
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 1
+  quality: buggy
