@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-05 08:39:28
+version: '1.73'
+environment: production
+
+service:
+  name: hkymqxwz
+  port: 3434
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 2
+  quality: buggy
