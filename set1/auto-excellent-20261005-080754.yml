@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 08:07:54
+version: '1.12'
+environment: development
+
+service:
+  name: disbezhc
+  port: 3654
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 37
+  retries: 2
+  quality: excellent
