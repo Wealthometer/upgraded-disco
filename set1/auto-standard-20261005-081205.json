@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-05T08:12:05",
+        "branch": "hotfix/fix-handler-1004",
+        "version": "1.51.8",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5691,
+        "type": "user",
+        "payload": "dpNexnUaPXWGfuESCjkoTBRcFYiQrqJl",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
