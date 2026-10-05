@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:51:07
+version: '1.55'
+environment: development
+
+service:
+  name: unorwlbs
+  port: 3746
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 35
+  retries: 1
+  quality: standard
