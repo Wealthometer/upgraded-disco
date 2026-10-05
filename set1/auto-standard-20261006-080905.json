@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T08:09:05",
+        "branch": "bugfix/implement-config-8308",
+        "version": "1.68.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 6595,
+        "type": "event",
+        "payload": "pohRFOdIuAgCzDBfnxjPZeVvUtlGaWXL",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
