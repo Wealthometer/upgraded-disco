@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:47:45
+version: '1.52'
+environment: production
+
+service:
+  name: ezkpnjtl
+  port: 3530
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 1
+  quality: standard
