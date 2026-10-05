@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:10:32
+version: '1.15'
+environment: development
+
+service:
+  name: hkwfnbcg
+  port: 3402
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 27
+  retries: 3
+  quality: standard
