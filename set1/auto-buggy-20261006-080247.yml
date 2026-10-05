@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 08:02:47
+version: '1.21'
+environment: development
+
+service:
+  name: wvchdbpk
+  port: 3002
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 3
+  quality: buggy
