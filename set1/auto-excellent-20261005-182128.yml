@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 18:21:28
+version: '1.96'
+environment: staging
+
+service:
+  name: tmiesrfd
+  port: 3059
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 23
+  retries: 3
+  quality: excellent
