@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-05 18:07:48
+version: '1.4'
+environment: staging
+
+service:
+  name: ykqlwhzm
+  port: 3783
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 56
+  retries: 3
+  quality: buggy
