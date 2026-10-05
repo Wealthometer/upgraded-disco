@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 07:56:35
+version: '1.16'
+environment: staging
+
+service:
+  name: wqtahylf
+  port: 3829
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 4
+  quality: buggy
