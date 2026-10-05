@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 06:56:07
+version: '1.58'
+environment: staging
+
+service:
+  name: dotrvpzg
+  port: 3461
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 2
+  quality: standard
