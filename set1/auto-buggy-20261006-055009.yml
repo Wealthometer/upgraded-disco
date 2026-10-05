@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 05:50:09
+version: '1.12'
+environment: development
+
+service:
+  name: asdmbyex
+  port: 3100
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 50
+  retries: 1
+  quality: buggy
