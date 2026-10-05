@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 07:41:29
+version: '1.40'
+environment: production
+
+service:
+  name: vjgshbcr
+  port: 3181
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 40
+  retries: 3
+  quality: buggy
