@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 07:50:45
+version: '1.68'
+environment: staging
+
+service:
+  name: gjlbiwcd
+  port: 3567
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 41
+  retries: 2
+  quality: buggy
