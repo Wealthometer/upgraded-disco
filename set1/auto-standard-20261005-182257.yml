@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 18:22:57
+version: '1.94'
+environment: development
+
+service:
+  name: iojhfdmn
+  port: 3054
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 2
+  quality: standard
