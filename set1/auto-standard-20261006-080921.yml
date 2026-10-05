@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:09:22
+version: '1.48'
+environment: development
+
+service:
+  name: gtnzwmdc
+  port: 3994
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 3
+  quality: standard
