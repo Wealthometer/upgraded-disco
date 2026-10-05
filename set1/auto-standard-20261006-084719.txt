@@ -1,0 +1,7 @@
+﻿[0] 08:47:19 - uocgvrz - OK
+[1] 08:47:19 - tuaszwd - COMPLETE
+[2] 08:47:19 - mstkcrnbzpi - ERROR
+[3] 08:47:19 - oplhzec - ERROR
+[4] 08:47:19 - qguzstikyn - SKIPPED
+[5] 08:47:19 - tbsrhacqwnl - OK
+[6] 08:47:19 - fdoijb - OK
