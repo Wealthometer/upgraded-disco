@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 06:44:57
+version: '1.48'
+environment: production
+
+service:
+  name: ajrkpuqf
+  port: 3043
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 15
+  retries: 4
+  quality: buggy
