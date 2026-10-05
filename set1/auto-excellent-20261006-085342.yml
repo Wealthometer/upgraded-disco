@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:53:42
+version: '1.95'
+environment: production
+
+service:
+  name: kbiyoqht
+  port: 3865
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 4
+  quality: excellent
