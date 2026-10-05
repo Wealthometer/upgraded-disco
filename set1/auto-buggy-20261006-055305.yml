@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 05:53:05
+version: '1.56'
+environment: staging
+
+service:
+  name: twgisrqx
+  port: 3461
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 3
+  quality: buggy
