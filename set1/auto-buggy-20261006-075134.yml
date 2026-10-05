@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 07:51:34
+version: '1.9'
+environment: development
+
+service:
+  name: erpfdlvo
+  port: 3885
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 4
+  quality: buggy
