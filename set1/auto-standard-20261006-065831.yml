@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 06:58:31
+version: '1.88'
+environment: production
+
+service:
+  name: zcugoiey
+  port: 3488
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 33
+  retries: 1
+  quality: standard
