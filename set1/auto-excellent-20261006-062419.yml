@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 06:24:19
+version: '1.2'
+environment: development
+
+service:
+  name: cphesqjo
+  port: 3805
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 3
+  quality: excellent
