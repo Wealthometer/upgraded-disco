@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 06:54:57
+version: '1.84'
+environment: development
+
+service:
+  name: acsheijv
+  port: 3908
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 58
+  retries: 2
+  quality: excellent
