@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:57:58
+version: '1.86'
+environment: development
+
+service:
+  name: xoqcngyu
+  port: 3820
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 52
+  retries: 4
+  quality: standard
