@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:08:37
+version: '1.88'
+environment: staging
+
+service:
+  name: rwozydue
+  port: 3828
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 4
+  quality: excellent
