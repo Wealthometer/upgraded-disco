@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 06:17:37
+version: '1.85'
+environment: staging
+
+service:
+  name: gjdracws
+  port: 3791
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 40
+  retries: 1
+  quality: standard
