@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 18:35:21
+version: '1.28'
+environment: development
+
+service:
+  name: kldybwxe
+  port: 3765
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 43
+  retries: 2
+  quality: standard
