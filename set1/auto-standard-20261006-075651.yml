@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:56:51
+version: '1.46'
+environment: development
+
+service:
+  name: iwkotfye
+  port: 3677
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 1
+  quality: standard
