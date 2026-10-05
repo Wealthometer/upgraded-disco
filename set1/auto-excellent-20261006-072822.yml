@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:28:22
+version: '1.87'
+environment: staging
+
+service:
+  name: kdmbnlxq
+  port: 3590
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 4
+  quality: excellent
