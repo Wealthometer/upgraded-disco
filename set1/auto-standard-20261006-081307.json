@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T08:13:07",
+        "branch": "hotfix/update-service-1470",
+        "version": "1.12.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4293,
+        "type": "event",
+        "payload": "MaYbUOITcivkdLlCVRKsWrzDXBGFHxEZ",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
