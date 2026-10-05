@@ -1,0 +1,9 @@
+﻿[0] 08:04:13 - blfep - OK
+[1] 08:04:13 - yqgrbjh - OK
+[2] 08:04:13 - crdyhpa - ERROR
+[3] 08:04:13 - zlgxiho - ERROR
+[4] 08:04:13 - vesldr - ERROR
+[5] 08:04:13 - vfypdncmgrq - SKIPPED
+[6] 08:04:13 - stonilah - COMPLETE
+[7] 08:04:13 - ulsgcnzjxyd - OK
+[8] 08:04:13 - kuqneigl - OK
