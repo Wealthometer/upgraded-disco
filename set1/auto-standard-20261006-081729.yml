@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:17:29
+version: '1.21'
+environment: staging
+
+service:
+  name: pwzljrsi
+  port: 3699
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: standard
