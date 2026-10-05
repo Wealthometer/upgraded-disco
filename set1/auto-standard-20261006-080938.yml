@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:09:38
+version: '1.69'
+environment: staging
+
+service:
+  name: lpncdqjt
+  port: 3042
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: standard
