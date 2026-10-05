@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T08:02:29",
+        "branch": "hotfix/fix-api-1642",
+        "version": "1.10.2",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 3811,
+        "type": "event",
+        "payload": "doBHkTDFKYcGUORjCpZlePVsrhNgmIXL",
+        "priority": 2
+    }
+}
