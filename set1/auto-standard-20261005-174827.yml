@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 17:48:27
+version: '1.60'
+environment: production
+
+service:
+  name: sygzaldb
+  port: 3796
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 38
+  retries: 1
+  quality: standard
