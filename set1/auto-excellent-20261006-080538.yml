@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:05:38
+version: '1.46'
+environment: development
+
+service:
+  name: soqjtgzl
+  port: 3813
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 1
+  quality: excellent
