@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 06:30:46
+version: '1.61'
+environment: production
+
+service:
+  name: dntyvkbo
+  port: 3343
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 2
+  quality: buggy
