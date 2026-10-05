@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 08:00:14
+version: '1.59'
+environment: production
+
+service:
+  name: bjqtczap
+  port: 3298
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 4
+  quality: buggy
