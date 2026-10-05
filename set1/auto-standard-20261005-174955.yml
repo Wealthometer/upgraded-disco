@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 17:49:55
+version: '1.32'
+environment: production
+
+service:
+  name: tcobkzde
+  port: 3867
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 2
+  quality: standard
