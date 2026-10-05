@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 08:10:14
+version: '1.59'
+environment: development
+
+service:
+  name: yugwpibo
+  port: 3291
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 24
+  retries: 2
+  quality: buggy
