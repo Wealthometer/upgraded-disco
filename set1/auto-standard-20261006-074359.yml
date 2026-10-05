@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:43:59
+version: '1.86'
+environment: production
+
+service:
+  name: rwhvakyo
+  port: 3130
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 40
+  retries: 4
+  quality: standard
