@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 17:55:59
+version: '1.12'
+environment: development
+
+service:
+  name: cvnblxah
+  port: 3176
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 4
+  quality: standard
