@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 07:57:40
+version: '1.50'
+environment: production
+
+service:
+  name: kxzuqfmp
+  port: 3602
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 3
+  quality: standard
