@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 08:12:16
+version: '1.30'
+environment: production
+
+service:
+  name: vgofeiap
+  port: 3829
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 42
+  retries: 3
+  quality: standard
