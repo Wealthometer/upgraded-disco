@@ -1,0 +1,8 @@
+﻿[0] 08:52:27 - mxwafj - SKIPPED
+[1] 08:52:27 - gwmruhednb - PENDING
+[2] 08:52:27 - alihr - COMPLETE
+[3] 08:52:27 - pijcdovkl - PENDING
+[4] 08:52:27 - aduynpe - SKIPPED
+[5] 08:52:27 - abwsmokdrcu - SKIPPED
+[6] 08:52:27 - brvsdtic - PENDING
+[7] 08:52:27 - yfcqlr - OK
