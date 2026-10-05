@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-05 18:30:42
+version: '1.78'
+environment: development
+
+service:
+  name: jdkemclt
+  port: 3316
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 41
+  retries: 3
+  quality: excellent
