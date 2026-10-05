@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 06:47:34
+version: '1.43'
+environment: production
+
+service:
+  name: ipbazcfx
+  port: 3810
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 3
+  quality: excellent
