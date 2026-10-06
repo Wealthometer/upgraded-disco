@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:49:26
+version: '1.23'
+environment: production
+
+service:
+  name: cgiyfots
+  port: 3242
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 3
+  quality: excellent
