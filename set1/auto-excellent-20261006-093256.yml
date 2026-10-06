@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:32:56
+version: '1.72'
+environment: development
+
+service:
+  name: vuzniqyc
+  port: 3528
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 4
+  quality: excellent
