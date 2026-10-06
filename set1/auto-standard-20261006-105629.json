@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:56:29",
+        "branch": "chore/implement-api-4214",
+        "version": "1.47.9",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4570,
+        "type": "event",
+        "payload": "rpBqWodaVzyLiwetMbAlGkIsTUYSvfnZ",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
