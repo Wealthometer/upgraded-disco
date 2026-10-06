@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:55:01
+version: '1.6'
+environment: production
+
+service:
+  name: jmgpksfw
+  port: 3111
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 1
+  quality: standard
