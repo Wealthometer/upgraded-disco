@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:05:41
+version: '1.40'
+environment: development
+
+service:
+  name: vpbdsnyl
+  port: 3365
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 52
+  retries: 3
+  quality: standard
