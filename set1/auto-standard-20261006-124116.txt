@@ -1,0 +1,8 @@
+﻿[0] 12:41:16 - ytedibar - OK
+[1] 12:41:16 - msujgfxqpi - SKIPPED
+[2] 12:41:16 - vgwlortd - ERROR
+[3] 12:41:16 - fgzxjua - PENDING
+[4] 12:41:16 - xpftjcn - ERROR
+[5] 12:41:16 - pgyufnwdxr - OK
+[6] 12:41:16 - gpekjrc - ERROR
+[7] 12:41:16 - qjeosmzid - OK
