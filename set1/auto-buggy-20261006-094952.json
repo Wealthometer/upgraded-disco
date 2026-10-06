@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T09:49:52",
+        "branch": "refactor/fix-api-6630",
+        "version": "1.87.8",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 330,
+        "type": "event",
+        "payload": "WrgcAPBIQsUZJmqMjSXwyEdDbFOxptGl",
+        "priority": 0
+    }
+}
