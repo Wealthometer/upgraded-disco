@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:41:21
+version: '1.29'
+environment: development
+
+service:
+  name: wckoyzrf
+  port: 3678
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 53
+  retries: 1
+  quality: standard
