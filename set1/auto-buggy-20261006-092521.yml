@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 09:25:21
+version: '1.26'
+environment: development
+
+service:
+  name: yqfrcump
+  port: 3350
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 4
+  quality: buggy
