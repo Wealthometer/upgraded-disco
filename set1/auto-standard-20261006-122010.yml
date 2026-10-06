@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:20:10
+version: '1.47'
+environment: production
+
+service:
+  name: bavdsmch
+  port: 3746
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 53
+  retries: 4
+  quality: standard
