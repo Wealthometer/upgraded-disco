@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:58:12",
+        "branch": "refactor/fix-service-3373",
+        "version": "1.80.8",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5658,
+        "type": "user",
+        "payload": "JgnbwcYZXfoGytLepkANHhQrBPRqVEsS",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
