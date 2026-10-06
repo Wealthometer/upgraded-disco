@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:53:16
+version: '1.61'
+environment: development
+
+service:
+  name: ocbhredz
+  port: 3361
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 3
+  quality: standard
