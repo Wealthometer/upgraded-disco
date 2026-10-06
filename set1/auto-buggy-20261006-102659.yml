@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 10:26:59
+version: '1.56'
+environment: development
+
+service:
+  name: lnsujhdr
+  port: 3779
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 2
+  quality: buggy
