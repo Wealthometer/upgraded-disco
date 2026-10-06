@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:20:18
+version: '1.80'
+environment: development
+
+service:
+  name: vuojfrxe
+  port: 3222
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 2
+  quality: standard
