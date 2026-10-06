@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 19:12:24
+version: '1.48'
+environment: production
+
+service:
+  name: gmiyvecq
+  port: 3803
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 10
+  retries: 2
+  quality: buggy
