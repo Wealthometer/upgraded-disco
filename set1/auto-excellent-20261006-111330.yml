@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 11:13:30
+version: '1.98'
+environment: development
+
+service:
+  name: vjlcdmwt
+  port: 3200
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 3
+  quality: excellent
