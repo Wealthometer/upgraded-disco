@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:29:50
+version: '1.90'
+environment: production
+
+service:
+  name: edupgckj
+  port: 3182
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 4
+  quality: standard
