@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:25:09
+version: '1.40'
+environment: production
+
+service:
+  name: iasnjtfq
+  port: 3847
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 24
+  retries: 1
+  quality: excellent
