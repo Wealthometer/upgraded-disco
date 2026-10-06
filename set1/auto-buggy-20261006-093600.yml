@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 09:36:00
+version: '1.33'
+environment: staging
+
+service:
+  name: jukazswc
+  port: 3209
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 1
+  quality: buggy
