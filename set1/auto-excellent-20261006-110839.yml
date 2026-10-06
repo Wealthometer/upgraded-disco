@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 11:08:39
+version: '1.83'
+environment: production
+
+service:
+  name: cmexkjwb
+  port: 3696
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 3
+  quality: excellent
