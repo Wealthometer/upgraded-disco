@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:19:16
+version: '1.35'
+environment: development
+
+service:
+  name: wrztisjo
+  port: 3642
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 1
+  quality: excellent
