@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:38:13
+version: '1.22'
+environment: production
+
+service:
+  name: zudrfmhw
+  port: 3085
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 2
+  quality: excellent
