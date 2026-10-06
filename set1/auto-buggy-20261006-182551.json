@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T18:25:51",
+        "branch": "release/optimize-service-5727",
+        "version": "1.12.5",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 6257,
+        "type": "user",
+        "payload": "yGCtDgNlIMYHSoaQRrKibLphTjcPkBJW",
+        "priority": 3
+    }
+}
