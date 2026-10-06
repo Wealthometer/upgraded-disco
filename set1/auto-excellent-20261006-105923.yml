@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:59:23
+version: '1.80'
+environment: development
+
+service:
+  name: unbxjimk
+  port: 3425
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 4
+  quality: excellent
