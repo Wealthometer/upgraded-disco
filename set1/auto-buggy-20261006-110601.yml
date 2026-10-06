@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 11:06:01
+version: '1.65'
+environment: staging
+
+service:
+  name: earybvpw
+  port: 3077
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 3
+  quality: buggy
