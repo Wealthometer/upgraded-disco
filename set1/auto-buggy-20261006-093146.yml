@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 09:31:46
+version: '1.20'
+environment: development
+
+service:
+  name: spzgotqa
+  port: 3929
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 37
+  retries: 1
+  quality: buggy
