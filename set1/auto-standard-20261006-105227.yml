@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:52:27
+version: '1.90'
+environment: staging
+
+service:
+  name: pyzexotr
+  port: 3833
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 3
+  quality: standard
