@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:01:44
+version: '1.25'
+environment: production
+
+service:
+  name: vkyhdzjs
+  port: 3451
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 39
+  retries: 2
+  quality: standard
