@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 18:27:48
+version: '1.35'
+environment: production
+
+service:
+  name: hudveymo
+  port: 3307
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 4
+  quality: excellent
