@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:21:52
+version: '1.16'
+environment: production
+
+service:
+  name: herbxlzg
+  port: 3036
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 24
+  retries: 4
+  quality: standard
