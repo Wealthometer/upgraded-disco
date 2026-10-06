@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:16:44",
+        "branch": "chore/fix-api-6391",
+        "version": "1.32.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8161,
+        "type": "metric",
+        "payload": "yqvQLzPcjJVlWKIEOkHGpXmNFsZhYArR",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
