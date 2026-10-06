@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:26:02
+version: '1.55'
+environment: staging
+
+service:
+  name: erjvolwa
+  port: 3891
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 2
+  quality: excellent
