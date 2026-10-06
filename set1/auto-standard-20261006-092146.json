@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T09:21:46",
+        "branch": "feature/implement-handler-4870",
+        "version": "1.11.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 6571,
+        "type": "user",
+        "payload": "bFEGfJCrmyWskAXaBRPtQvnqjeOhpxYH",
+        "priority": 3
+,
+        "status": "active"
+    }
+}
