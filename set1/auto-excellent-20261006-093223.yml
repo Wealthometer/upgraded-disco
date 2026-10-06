@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:32:23
+version: '1.88'
+environment: production
+
+service:
+  name: kvdurbho
+  port: 3563
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 2
+  quality: excellent
