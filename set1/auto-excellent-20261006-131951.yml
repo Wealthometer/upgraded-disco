@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 13:19:51
+version: '1.14'
+environment: development
+
+service:
+  name: iazfjgku
+  port: 3324
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 1
+  quality: excellent
