@@ -1,0 +1,11 @@
+﻿[0] 09:45:20 - fglpvtoaq - OK
+[1] 09:45:20 - bnlfokpeu - OK
+[2] 09:45:20 - ilojgamn - ERROR
+[3] 09:45:20 - vxifwznag - SKIPPED
+[4] 09:45:20 - xyrbsw - PENDING
+[5] 09:45:20 - wcuiq - PENDING
+[6] 09:45:20 - yigscqexpnr - COMPLETE
+[7] 09:45:20 - lszctkm - SKIPPED
+[8] 09:45:20 - aigewus - OK
+[9] 09:45:20 - kuyedstfonp - SKIPPED
+[10] 09:45:20 - bfuzpkhlmo - PENDING
