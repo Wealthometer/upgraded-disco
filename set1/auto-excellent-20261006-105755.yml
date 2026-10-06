@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:57:55
+version: '1.23'
+environment: staging
+
+service:
+  name: toivfxsj
+  port: 3230
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 3
+  quality: excellent
