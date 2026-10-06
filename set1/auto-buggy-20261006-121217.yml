@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:12:17
+version: '1.87'
+environment: production
+
+service:
+  name: hurxysov
+  port: 3640
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 4
+  quality: buggy
