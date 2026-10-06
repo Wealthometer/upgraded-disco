@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:27:46
+version: '1.90'
+environment: development
+
+service:
+  name: emhrzwti
+  port: 3184
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 46
+  retries: 2
+  quality: excellent
