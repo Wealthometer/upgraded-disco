@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:36:57",
+        "branch": "feature/optimize-api-5365",
+        "version": "1.99.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 364,
+        "type": "event",
+        "payload": "ZLtNrReDqsaCwkhlopYOuGzWfBnQKMFA",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
