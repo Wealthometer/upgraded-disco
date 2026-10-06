@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:00:30
+version: '1.59'
+environment: staging
+
+service:
+  name: kmihqsju
+  port: 3538
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 3
+  quality: excellent
