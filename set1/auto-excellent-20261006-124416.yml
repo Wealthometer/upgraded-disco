@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:44:16
+version: '1.12'
+environment: production
+
+service:
+  name: wftyqmjz
+  port: 3314
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 12
+  retries: 4
+  quality: excellent
