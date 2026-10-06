@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:18:41
+version: '1.83'
+environment: development
+
+service:
+  name: eglnbmhz
+  port: 3313
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 2
+  quality: buggy
