@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:35:41
+version: '1.18'
+environment: staging
+
+service:
+  name: wstgnkyl
+  port: 3783
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 2
+  quality: excellent
