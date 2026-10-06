@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 18:23:17
+version: '1.2'
+environment: development
+
+service:
+  name: nmzgvstk
+  port: 3558
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 10
+  retries: 3
+  quality: buggy
