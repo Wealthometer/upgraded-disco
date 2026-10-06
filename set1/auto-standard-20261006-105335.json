@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:53:35",
+        "branch": "bugfix/add-api-6873",
+        "version": "1.66.7",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 9566,
+        "type": "system",
+        "payload": "DdfwvesCUBihZObSuAQoXEWFlLzyIKrH",
+        "priority": 3
+,
+        "status": "active"
+    }
+}
