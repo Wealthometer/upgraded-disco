@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 11:00:50
+version: '1.92'
+environment: production
+
+service:
+  name: pafgemrw
+  port: 3503
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 17
+  retries: 3
+  quality: standard
