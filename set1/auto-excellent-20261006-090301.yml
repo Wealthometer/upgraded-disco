@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:03:01
+version: '1.83'
+environment: staging
+
+service:
+  name: rizhmwek
+  port: 3368
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 4
+  quality: excellent
