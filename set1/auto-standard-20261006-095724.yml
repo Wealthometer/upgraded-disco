@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:57:24
+version: '1.76'
+environment: development
+
+service:
+  name: lsatjhun
+  port: 3915
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 2
+  quality: standard
