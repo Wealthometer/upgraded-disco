@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:46:44
+version: '1.6'
+environment: development
+
+service:
+  name: tmohgdfq
+  port: 3537
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 10
+  retries: 1
+  quality: standard
