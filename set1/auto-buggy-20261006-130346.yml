@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 13:03:46
+version: '1.14'
+environment: development
+
+service:
+  name: mdofakcp
+  port: 3344
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 3
+  quality: buggy
