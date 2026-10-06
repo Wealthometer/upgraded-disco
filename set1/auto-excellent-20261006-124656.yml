@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:46:56
+version: '1.68'
+environment: staging
+
+service:
+  name: ypxwbjfi
+  port: 3246
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 3
+  quality: excellent
