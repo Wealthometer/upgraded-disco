@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:14:57
+version: '1.83'
+environment: staging
+
+service:
+  name: iudthpjc
+  port: 3335
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 3
+  quality: buggy
