@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 18:02:09
+version: '1.0'
+environment: production
+
+service:
+  name: ktfeauzj
+  port: 3647
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 1
+  quality: buggy
