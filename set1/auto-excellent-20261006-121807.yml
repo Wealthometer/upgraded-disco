@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:18:07
+version: '1.21'
+environment: staging
+
+service:
+  name: dohkyxrf
+  port: 3013
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 49
+  retries: 4
+  quality: excellent
