@@ -1,0 +1,8 @@
+﻿[0] 10:30:40 - hrguspzt - COMPLETE
+[1] 10:30:40 - xrcjwydu - ERROR
+[2] 10:30:40 - ujato - PENDING
+[3] 10:30:40 - wafzlpbkgi - SKIPPED
+[4] 10:30:40 - gqoenu - OK
+[5] 10:30:40 - tbhuplai - COMPLETE
+[6] 10:30:40 - slyighwtc - ERROR
+[7] 10:30:40 - cmbqnwfe - PENDING
