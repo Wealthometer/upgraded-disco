@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T13:07:49",
+        "branch": "release/optimize-service-2740",
+        "version": "1.15.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4350,
+        "type": "user",
+        "payload": "HYwbSxnBvdaVXiLAgQKczlIMZfCWtsDk",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
