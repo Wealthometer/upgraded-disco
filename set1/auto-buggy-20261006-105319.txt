@@ -1,0 +1,10 @@
+﻿[0] 10:53:19 - dqlvowxbja - OK
+[1] 10:53:19 - fnubdsrxh - COMPLETE
+[2] 10:53:19 - zuygxeimjp - COMPLETE
+[3] 10:53:19 - phitqb - COMPLETE
+[4] 10:53:19 - umxhsfi - SKIPPED
+[5] 10:53:19 - cimsqlxk - ERROR
+[6] 10:53:19 - rtvpmgafko - SKIPPED
+[7] 10:53:19 - peqaf - SKIPPED
+[8] 10:53:19 - nelqowjz - PENDING
+[9] 10:53:19 - jftwgxivs - PENDING
