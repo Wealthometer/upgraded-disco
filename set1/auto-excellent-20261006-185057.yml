@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 18:50:57
+version: '1.25'
+environment: production
+
+service:
+  name: hlgcbqnw
+  port: 3395
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 2
+  quality: excellent
