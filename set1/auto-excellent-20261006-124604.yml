@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:46:04
+version: '1.25'
+environment: staging
+
+service:
+  name: rmwknbup
+  port: 3547
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 3
+  quality: excellent
