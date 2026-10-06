@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 11:54:04
+version: '1.25'
+environment: production
+
+service:
+  name: jewitbvu
+  port: 3755
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 1
+  quality: excellent
