@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:31:35
+version: '1.33'
+environment: development
+
+service:
+  name: cpjwmzyu
+  port: 3838
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 1
+  quality: buggy
