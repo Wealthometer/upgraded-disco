@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 11:42:33
+version: '1.38'
+environment: staging
+
+service:
+  name: sqdpezul
+  port: 3906
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 3
+  quality: buggy
