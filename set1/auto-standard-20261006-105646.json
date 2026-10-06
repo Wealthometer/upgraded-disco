@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:56:46",
+        "branch": "refactor/fix-handler-9724",
+        "version": "1.40.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8016,
+        "type": "event",
+        "payload": "tvEHhXJVUjPATBKYixLqDmwNSgdWukGo",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
