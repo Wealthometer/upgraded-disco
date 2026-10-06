@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 09:35:27
+version: '1.10'
+environment: staging
+
+service:
+  name: nuvecphz
+  port: 3511
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 10
+  retries: 4
+  quality: standard
