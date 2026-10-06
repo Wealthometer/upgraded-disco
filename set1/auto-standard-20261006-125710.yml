@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:57:10
+version: '1.38'
+environment: staging
+
+service:
+  name: tpxhajlc
+  port: 3403
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 19
+  retries: 1
+  quality: standard
