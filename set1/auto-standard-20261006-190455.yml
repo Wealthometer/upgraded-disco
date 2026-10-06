@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 19:04:55
+version: '1.39'
+environment: development
+
+service:
+  name: aykuwchj
+  port: 3666
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: standard
