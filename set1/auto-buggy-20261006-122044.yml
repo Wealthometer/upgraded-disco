@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:20:44
+version: '1.7'
+environment: staging
+
+service:
+  name: evsyljgh
+  port: 3684
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 20
+  retries: 3
+  quality: buggy
