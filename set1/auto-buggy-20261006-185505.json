@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T18:55:05",
+        "branch": "bugfix/add-handler-9223",
+        "version": "1.80.4",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 7673,
+        "type": "user",
+        "payload": "RYepozJSAxyNQIdcXDZhnuvqGTCljrfs",
+        "priority": 0
+    }
+}
