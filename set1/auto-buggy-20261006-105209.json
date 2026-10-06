@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T10:52:09",
+        "branch": "feature/fix-api-8057",
+        "version": "1.99.6",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 4657,
+        "type": "metric",
+        "payload": "NACGYkxfQvdIiOarPupVDjEXWnoZLbFq",
+        "priority": 4
+    }
+}
