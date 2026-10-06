@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 11:02:53
+version: '1.97'
+environment: staging
+
+service:
+  name: vcnfsgmx
+  port: 3967
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 35
+  retries: 3
+  quality: standard
