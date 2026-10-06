@@ -1,0 +1,7 @@
+﻿[0] 09:26:45 - dnbgshoa - OK
+[1] 09:26:45 - rvdjz - ERROR
+[2] 09:26:45 - iztwp - OK
+[3] 09:26:45 - rmstxzhi - OK
+[4] 09:26:45 - rhwigvplb - SKIPPED
+[5] 09:26:45 - cbwyqperd - ERROR
+[6] 09:26:45 - lfivuh - COMPLETE
