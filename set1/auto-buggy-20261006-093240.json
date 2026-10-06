@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T09:32:40",
+        "branch": "hotfix/update-service-9071",
+        "version": "1.49.6",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 5287,
+        "type": "user",
+        "payload": "eAxQzLbKMFhUVuldyfSDaNjOwpHEJmGI",
+        "priority": 2
+    }
+}
