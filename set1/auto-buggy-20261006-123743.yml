@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:37:43
+version: '1.35'
+environment: staging
+
+service:
+  name: iwhybvkc
+  port: 3610
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 46
+  retries: 4
+  quality: buggy
