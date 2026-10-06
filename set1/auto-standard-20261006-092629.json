@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-06T09:26:29",
+        "branch": "hotfix/add-api-7597",
+        "version": "1.93.9",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 3092,
+        "type": "metric",
+        "payload": "UiStOAfDoQKkjcXYREbMFvGWdsJmIBnT",
+        "priority": 4
+,
+        "status": "active"
+    }
+}
