@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 12:33:55
+version: '1.88'
+environment: development
+
+service:
+  name: eyhwtsqb
+  port: 3994
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 4
+  quality: buggy
