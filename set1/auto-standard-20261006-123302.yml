@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 12:33:02
+version: '1.36'
+environment: development
+
+service:
+  name: adjbwfoz
+  port: 3445
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 28
+  retries: 1
+  quality: standard
