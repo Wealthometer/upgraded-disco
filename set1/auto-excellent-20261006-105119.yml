@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:51:19
+version: '1.70'
+environment: development
+
+service:
+  name: umaqjetz
+  port: 3245
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 57
+  retries: 3
+  quality: excellent
