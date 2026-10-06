@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 11:46:28
+version: '1.39'
+environment: development
+
+service:
+  name: gekpswoh
+  port: 3882
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 2
+  quality: buggy
