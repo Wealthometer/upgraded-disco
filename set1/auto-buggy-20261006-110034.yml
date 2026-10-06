@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-06 11:00:34
+version: '1.39'
+environment: development
+
+service:
+  name: kfjxyzrs
+  port: 3187
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 35
+  retries: 3
+  quality: buggy
