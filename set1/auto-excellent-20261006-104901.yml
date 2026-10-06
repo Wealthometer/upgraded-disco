@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-06 10:49:01
+version: '1.12'
+environment: development
+
+service:
+  name: pducszom
+  port: 3720
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 23
+  retries: 2
+  quality: excellent
