@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 00:37:54
+version: '1.90'
+environment: staging
+
+service:
+  name: tbdigqup
+  port: 3744
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 2
+  quality: buggy
