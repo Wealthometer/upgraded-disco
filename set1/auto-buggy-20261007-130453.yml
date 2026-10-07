@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 13:04:53
+version: '1.28'
+environment: production
+
+service:
+  name: igthluec
+  port: 3616
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 4
+  quality: buggy
