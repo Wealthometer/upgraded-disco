@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 22:41:11
+version: '1.52'
+environment: production
+
+service:
+  name: kvmgwhyl
+  port: 3452
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 30
+  retries: 3
+  quality: buggy
