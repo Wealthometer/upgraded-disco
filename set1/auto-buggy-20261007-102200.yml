@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 10:22:01
+version: '1.15'
+environment: development
+
+service:
+  name: lifqbgud
+  port: 3653
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 3
+  quality: buggy
