@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-07T21:59:01",
+        "branch": "bugfix/fix-config-9801",
+        "version": "1.69.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 9748,
+        "type": "user",
+        "payload": "ZkIzbuVsRxNfSJaDhvqiltTLdgWUprKC",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
