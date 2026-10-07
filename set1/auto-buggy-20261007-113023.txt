@@ -1,0 +1,5 @@
+﻿[0] 11:30:23 - ozxeibcgah - OK
+[1] 11:30:23 - mxftacwye - ERROR
+[2] 11:30:23 - ybwrenist - SKIPPED
+[3] 11:30:23 - hwpmdjg - SKIPPED
+[4] 11:30:23 - enybkldpx - OK
