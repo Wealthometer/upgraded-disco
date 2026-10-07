@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 05:41:40
+version: '1.67'
+environment: production
+
+service:
+  name: kncdvmof
+  port: 3469
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 3
+  quality: buggy
