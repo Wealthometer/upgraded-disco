@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 03:01:20
+version: '1.32'
+environment: production
+
+service:
+  name: jluphdns
+  port: 3272
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 35
+  retries: 3
+  quality: standard
