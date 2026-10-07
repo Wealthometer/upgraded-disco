@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 07:46:50
+version: '1.63'
+environment: development
+
+service:
+  name: ovtrzayf
+  port: 3570
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 2
+  quality: excellent
