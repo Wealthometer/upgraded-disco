@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:44:02
+version: '1.12'
+environment: staging
+
+service:
+  name: hrcwosnf
+  port: 3817
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 2
+  quality: excellent
