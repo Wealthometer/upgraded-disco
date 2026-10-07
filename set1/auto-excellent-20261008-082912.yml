@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:29:12
+version: '1.80'
+environment: staging
+
+service:
+  name: qyfcpxtd
+  port: 3495
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 4
+  quality: excellent
