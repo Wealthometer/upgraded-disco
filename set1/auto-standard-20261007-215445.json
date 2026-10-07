@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-07T21:54:45",
+        "branch": "chore/fix-handler-8632",
+        "version": "1.46.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5642,
+        "type": "event",
+        "payload": "GtescWUlKgDwNjCpZnExmTHQkXfoMOdq",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
