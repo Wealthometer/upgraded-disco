@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 05:04:46
+version: '1.58'
+environment: development
+
+service:
+  name: rkwxnchq
+  port: 3973
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 1
+  quality: buggy
