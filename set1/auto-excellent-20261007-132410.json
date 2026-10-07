@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-07T13:24:10",
+        "branch": "refactor/fix-handler-1157",
+        "version": "1.74.2",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 9473,
+        "type": "user",
+        "payload": "eQEtplkIsZmgzKUOMRHiDjTJWLcvYqyr",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
