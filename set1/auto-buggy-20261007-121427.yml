@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 12:14:27
+version: '1.22'
+environment: staging
+
+service:
+  name: mgkqsthu
+  port: 3299
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 2
+  quality: buggy
