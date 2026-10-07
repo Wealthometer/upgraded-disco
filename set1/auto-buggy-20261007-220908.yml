@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 22:09:08
+version: '1.66'
+environment: development
+
+service:
+  name: pnyrhzic
+  port: 3881
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 46
+  retries: 2
+  quality: buggy
