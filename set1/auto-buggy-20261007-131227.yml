@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 13:12:27
+version: '1.85'
+environment: production
+
+service:
+  name: rtynmjvg
+  port: 3043
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 1
+  quality: buggy
