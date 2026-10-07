@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:45:34
+version: '1.99'
+environment: production
+
+service:
+  name: jcmqrplb
+  port: 3586
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 39
+  retries: 3
+  quality: standard
