@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 22:17:40
+version: '1.14'
+environment: development
+
+service:
+  name: utdirqva
+  port: 3889
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 2
+  quality: buggy
