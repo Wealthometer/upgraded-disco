@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 11:00:18
+version: '1.41'
+environment: staging
+
+service:
+  name: obsymcjn
+  port: 3636
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 41
+  retries: 2
+  quality: excellent
