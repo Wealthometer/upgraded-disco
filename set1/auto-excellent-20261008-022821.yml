@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 02:28:21
+version: '1.96'
+environment: production
+
+service:
+  name: xpawcbty
+  port: 3442
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 1
+  quality: excellent
