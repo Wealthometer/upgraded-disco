@@ -1,0 +1,10 @@
+﻿[0] 05:27:21 - nvmywpfxbsd - OK
+[1] 05:27:21 - gpnjoqhsfmi - OK
+[2] 05:27:21 - canlivj - COMPLETE
+[3] 05:27:21 - rjpiub - ERROR
+[4] 05:27:21 - mfdakyth - ERROR
+[5] 05:27:21 - cspnw - SKIPPED
+[6] 05:27:21 - tekswmxq - SKIPPED
+[7] 05:27:21 - rphdwalztv - OK
+[8] 05:27:21 - kxgrwnmps - SKIPPED
+[9] 05:27:21 - cdnbplegmi - COMPLETE
