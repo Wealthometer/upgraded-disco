@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 12:41:53
+version: '1.31'
+environment: staging
+
+service:
+  name: qhciopdl
+  port: 3071
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 38
+  retries: 3
+  quality: excellent
