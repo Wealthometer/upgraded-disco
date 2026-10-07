@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 10:07:24
+version: '1.41'
+environment: staging
+
+service:
+  name: cifvagek
+  port: 3127
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 3
+  quality: buggy
