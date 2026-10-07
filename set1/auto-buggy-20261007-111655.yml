@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 11:16:55
+version: '1.43'
+environment: production
+
+service:
+  name: maphyskd
+  port: 3740
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 1
+  quality: buggy
