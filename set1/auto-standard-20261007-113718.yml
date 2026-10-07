@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 11:37:18
+version: '1.61'
+environment: production
+
+service:
+  name: kuixvwta
+  port: 3452
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 4
+  quality: standard
