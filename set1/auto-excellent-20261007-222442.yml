@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 22:24:42
+version: '1.97'
+environment: production
+
+service:
+  name: migoelwx
+  port: 3811
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 1
+  quality: excellent
