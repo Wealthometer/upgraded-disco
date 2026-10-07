@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 06:24:27
+version: '1.90'
+environment: staging
+
+service:
+  name: dpyjuczm
+  port: 3997
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 2
+  quality: buggy
