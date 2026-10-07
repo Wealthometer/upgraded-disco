@@ -1,0 +1,11 @@
+﻿[0] 10:48:57 - rsgbu - OK
+[1] 10:48:57 - rjafmtpkqnb - ERROR
+[2] 10:48:57 - mbkwj - SKIPPED
+[3] 10:48:57 - emqxlbu - SKIPPED
+[4] 10:48:57 - iaolvhrznj - PENDING
+[5] 10:48:57 - bhrjqzx - COMPLETE
+[6] 10:48:57 - fsyqo - COMPLETE
+[7] 10:48:57 - krvdb - OK
+[8] 10:48:57 - mpldva - OK
+[9] 10:48:57 - pvnwxbadl - ERROR
+[10] 10:48:57 - exptq - COMPLETE
