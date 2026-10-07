@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:32:03
+version: '1.21'
+environment: staging
+
+service:
+  name: coezdihr
+  port: 3314
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 4
+  quality: excellent
