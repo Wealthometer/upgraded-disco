@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 03:12:19
+version: '1.97'
+environment: production
+
+service:
+  name: pnrguylc
+  port: 3822
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 3
+  quality: buggy
