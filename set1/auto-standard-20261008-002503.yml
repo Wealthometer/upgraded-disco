@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 00:25:03
+version: '1.4'
+environment: development
+
+service:
+  name: rntidsav
+  port: 3721
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 4
+  quality: standard
