@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 03:17:54
+version: '1.8'
+environment: production
+
+service:
+  name: iltfkmya
+  port: 3995
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 3
+  quality: buggy
