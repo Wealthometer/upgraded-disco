@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T00:35:06",
+        "branch": "feature/update-handler-9283",
+        "version": "1.40.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 1297,
+        "type": "event",
+        "payload": "BrTPUiYRohWHSbGvNwDdejZtVFOxKqfM",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
