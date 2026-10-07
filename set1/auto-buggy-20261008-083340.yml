@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 08:33:40
+version: '1.62'
+environment: staging
+
+service:
+  name: lsdreakt
+  port: 3158
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 26
+  retries: 4
+  quality: buggy
