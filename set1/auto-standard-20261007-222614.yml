@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 22:26:14
+version: '1.34'
+environment: production
+
+service:
+  name: mkgjpnqx
+  port: 3968
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 4
+  quality: standard
