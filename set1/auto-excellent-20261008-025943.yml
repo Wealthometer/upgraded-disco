@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 02:59:43
+version: '1.55'
+environment: development
+
+service:
+  name: fopnghbt
+  port: 3429
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 1
+  quality: excellent
