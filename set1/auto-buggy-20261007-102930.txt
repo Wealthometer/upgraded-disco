@@ -1,0 +1,6 @@
+﻿[0] 10:29:30 - omfribjskat - SKIPPED
+[1] 10:29:30 - cfqsdzlp - PENDING
+[2] 10:29:30 - oqdez - OK
+[3] 10:29:30 - gowmyxi - PENDING
+[4] 10:29:30 - cefdhx - OK
+[5] 10:29:30 - ptodnbqc - SKIPPED
