@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 05:25:50
+version: '1.71'
+environment: staging
+
+service:
+  name: fjindeax
+  port: 3312
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 3
+  quality: standard
