@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 05:33:16
+version: '1.69'
+environment: staging
+
+service:
+  name: oyfqivrc
+  port: 3151
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 1
+  quality: excellent
