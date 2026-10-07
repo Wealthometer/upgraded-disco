@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 22:18:53
+version: '1.19'
+environment: production
+
+service:
+  name: mvqnzcge
+  port: 3106
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 12
+  retries: 2
+  quality: excellent
