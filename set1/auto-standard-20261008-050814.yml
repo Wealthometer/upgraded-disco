@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 05:08:14
+version: '1.7'
+environment: development
+
+service:
+  name: rmzkoyib
+  port: 3598
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 54
+  retries: 3
+  quality: standard
