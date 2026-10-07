@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:35:09
+version: '1.12'
+environment: development
+
+service:
+  name: bgnciqrs
+  port: 3327
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 39
+  retries: 3
+  quality: standard
