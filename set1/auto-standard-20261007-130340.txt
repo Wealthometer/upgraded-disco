@@ -1,0 +1,6 @@
+﻿[0] 13:03:40 - mlnckrjop - OK
+[1] 13:03:40 - sejbto - ERROR
+[2] 13:03:40 - lfuvgpwisch - PENDING
+[3] 13:03:40 - ikjeva - COMPLETE
+[4] 13:03:40 - gkeftpl - PENDING
+[5] 13:03:40 - yuohw - SKIPPED
