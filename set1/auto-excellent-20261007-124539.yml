@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 12:45:39
+version: '1.84'
+environment: production
+
+service:
+  name: dwuikaxy
+  port: 3670
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 2
+  quality: excellent
