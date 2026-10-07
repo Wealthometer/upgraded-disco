@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 13:21:17
+version: '1.77'
+environment: production
+
+service:
+  name: xdjmqycb
+  port: 3085
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 18
+  retries: 4
+  quality: excellent
