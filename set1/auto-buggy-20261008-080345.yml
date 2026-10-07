@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 08:03:45
+version: '1.19'
+environment: development
+
+service:
+  name: iwoblcme
+  port: 3406
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 58
+  retries: 3
+  quality: buggy
