@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 08:51:17
+version: '1.4'
+environment: production
+
+service:
+  name: incxzvsa
+  port: 3043
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 55
+  retries: 1
+  quality: buggy
