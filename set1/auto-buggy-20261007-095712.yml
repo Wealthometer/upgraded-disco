@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 09:57:12
+version: '1.38'
+environment: staging
+
+service:
+  name: weimyrsq
+  port: 3293
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 39
+  retries: 1
+  quality: buggy
