@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 08:38:08
+version: '1.88'
+environment: development
+
+service:
+  name: zpgtisuf
+  port: 3662
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 51
+  retries: 4
+  quality: buggy
