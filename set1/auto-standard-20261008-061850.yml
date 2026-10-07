@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 06:18:50
+version: '1.33'
+environment: staging
+
+service:
+  name: mlqephrt
+  port: 3935
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 4
+  quality: standard
