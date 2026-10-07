@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 06:20:13
+version: '1.82'
+environment: production
+
+service:
+  name: rsuoivet
+  port: 3492
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 27
+  retries: 4
+  quality: buggy
