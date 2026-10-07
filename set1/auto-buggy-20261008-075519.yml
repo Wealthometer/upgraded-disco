@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 07:55:19
+version: '1.21'
+environment: staging
+
+service:
+  name: kwsrnjgl
+  port: 3079
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 28
+  retries: 3
+  quality: buggy
