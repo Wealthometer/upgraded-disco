@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 06:43:48
+version: '1.39'
+environment: development
+
+service:
+  name: vuxahktb
+  port: 3212
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 1
+  quality: buggy
