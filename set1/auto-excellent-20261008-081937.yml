@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:19:37
+version: '1.69'
+environment: staging
+
+service:
+  name: veqdziwj
+  port: 3990
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 58
+  retries: 2
+  quality: excellent
