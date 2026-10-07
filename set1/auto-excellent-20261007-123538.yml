@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 12:35:38
+version: '1.14'
+environment: development
+
+service:
+  name: uokpmgex
+  port: 3707
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 27
+  retries: 3
+  quality: excellent
