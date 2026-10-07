@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 08:47:01
+version: '1.12'
+environment: staging
+
+service:
+  name: hxkgbzir
+  port: 3226
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 4
+  quality: standard
