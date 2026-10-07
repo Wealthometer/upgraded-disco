@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 03:30:47
+version: '1.19'
+environment: staging
+
+service:
+  name: cvhjilwr
+  port: 3075
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 59
+  retries: 1
+  quality: excellent
