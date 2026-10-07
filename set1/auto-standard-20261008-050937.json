@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T05:09:37",
+        "branch": "feature/fix-api-9531",
+        "version": "1.9.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 848,
+        "type": "system",
+        "payload": "ZpvoNurBbnaVqxHlstLPRgXzGjJDkMdC",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
