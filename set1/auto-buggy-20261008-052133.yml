@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 05:21:33
+version: '1.0'
+environment: development
+
+service:
+  name: rhsxdofj
+  port: 3975
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 12
+  retries: 2
+  quality: buggy
