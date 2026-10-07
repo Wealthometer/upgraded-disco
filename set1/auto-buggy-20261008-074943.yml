@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 07:49:43
+version: '1.47'
+environment: production
+
+service:
+  name: pqeihbyv
+  port: 3255
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 2
+  quality: buggy
