@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 06:38:28
+version: '1.92'
+environment: development
+
+service:
+  name: iksmonjy
+  port: 3920
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 22
+  retries: 2
+  quality: excellent
