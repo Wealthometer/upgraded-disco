@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-07T09:59:31",
+        "branch": "chore/fix-service-6588",
+        "version": "1.6.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 7095,
+        "type": "user",
+        "payload": "tMniQGmDrlfOgIKvSuqBAWCbLRsNaeYp",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
