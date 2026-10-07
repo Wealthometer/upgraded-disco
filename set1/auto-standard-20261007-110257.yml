@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 11:02:57
+version: '1.81'
+environment: development
+
+service:
+  name: rydzkgoq
+  port: 3345
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 2
+  quality: standard
