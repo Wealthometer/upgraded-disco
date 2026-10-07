@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T06:17:04",
+        "branch": "feature/fix-config-9327",
+        "version": "1.86.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4383,
+        "type": "system",
+        "payload": "OZEjoUlNyLxueBKDGmbkdnQvsCXrgiHS",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
