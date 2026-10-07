@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 06:27:28
+version: '1.46'
+environment: development
+
+service:
+  name: jmbdaufz
+  port: 3369
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 3
+  quality: buggy
