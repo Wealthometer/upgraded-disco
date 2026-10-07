@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 11:28:14
+version: '1.89'
+environment: production
+
+service:
+  name: jkguwpic
+  port: 3090
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 13
+  retries: 3
+  quality: buggy
