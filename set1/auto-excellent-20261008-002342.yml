@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 00:23:42
+version: '1.72'
+environment: staging
+
+service:
+  name: bvikczau
+  port: 3526
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 56
+  retries: 3
+  quality: excellent
