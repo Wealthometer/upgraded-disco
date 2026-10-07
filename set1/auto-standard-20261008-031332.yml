@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 03:13:32
+version: '1.20'
+environment: staging
+
+service:
+  name: wdjqaori
+  port: 3879
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 16
+  retries: 1
+  quality: standard
