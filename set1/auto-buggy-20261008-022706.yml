@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 02:27:06
+version: '1.34'
+environment: development
+
+service:
+  name: vckxelwz
+  port: 3672
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 35
+  retries: 2
+  quality: buggy
