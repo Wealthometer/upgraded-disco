@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-07T12:49:28",
+        "branch": "hotfix/add-handler-2319",
+        "version": "1.82.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 3334,
+        "type": "user",
+        "payload": "ODAdMJkeEyTRoKfixHCVnSIluZsaYqUw",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
