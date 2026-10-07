@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 21:50:15
+version: '1.4'
+environment: production
+
+service:
+  name: wmakzlyg
+  port: 3850
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 2
+  quality: buggy
