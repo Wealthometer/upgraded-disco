@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 21:53:15
+version: '1.63'
+environment: staging
+
+service:
+  name: jzysproa
+  port: 3115
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 4
+  quality: excellent
