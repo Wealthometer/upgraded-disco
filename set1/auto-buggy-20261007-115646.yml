@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-07 11:56:46
+version: '1.75'
+environment: development
+
+service:
+  name: crfvakdq
+  port: 3096
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 4
+  quality: buggy
