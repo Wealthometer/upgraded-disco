@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 22:39:29
+version: '1.86'
+environment: staging
+
+service:
+  name: vinesxwq
+  port: 3179
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 43
+  retries: 2
+  quality: excellent
