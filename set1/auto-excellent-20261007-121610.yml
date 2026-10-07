@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-07 12:16:10
+version: '1.38'
+environment: development
+
+service:
+  name: viwcjkad
+  port: 3251
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 27
+  retries: 1
+  quality: excellent
