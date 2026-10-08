@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 10:27:59
+version: '1.26'
+environment: staging
+
+service:
+  name: dejulvag
+  port: 3875
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 3
+  quality: standard
