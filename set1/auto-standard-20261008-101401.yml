@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 10:14:01
+version: '1.10'
+environment: development
+
+service:
+  name: usbkvalz
+  port: 3323
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 43
+  retries: 2
+  quality: standard
