@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 19:40:53
+version: '1.42'
+environment: production
+
+service:
+  name: myvwnasu
+  port: 3525
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 40
+  retries: 1
+  quality: buggy
