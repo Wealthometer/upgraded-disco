@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 12:27:00
+version: '1.44'
+environment: staging
+
+service:
+  name: cfrkgiod
+  port: 3804
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 4
+  quality: buggy
