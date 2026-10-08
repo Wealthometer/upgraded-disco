@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 18:18:49
+version: '1.76'
+environment: staging
+
+service:
+  name: skclrbxv
+  port: 3389
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 36
+  retries: 1
+  quality: buggy
