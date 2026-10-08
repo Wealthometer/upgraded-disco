@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 09:47:47
+version: '1.8'
+environment: development
+
+service:
+  name: qpjbrcvd
+  port: 3495
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 2
+  quality: buggy
