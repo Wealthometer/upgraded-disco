@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:00:30
+version: '1.67'
+environment: production
+
+service:
+  name: gmzvircy
+  port: 3084
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 4
+  quality: standard
