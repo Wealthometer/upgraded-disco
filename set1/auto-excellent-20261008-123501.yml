@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 12:35:01
+version: '1.55'
+environment: production
+
+service:
+  name: dpevizuo
+  port: 3567
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 1
+  quality: excellent
