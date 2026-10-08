@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T11:45:14",
+        "branch": "refactor/fix-utils-1906",
+        "version": "1.0.4",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 687,
+        "type": "event",
+        "payload": "ywdEIpetagQkRxTzBfnWbHGUlFjcMZmr",
+        "priority": 4
+,
+        "status": "active"
+    }
+}
