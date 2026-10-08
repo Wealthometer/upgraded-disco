@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 11:51:55
+version: '1.25'
+environment: development
+
+service:
+  name: zilmopyc
+  port: 3191
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 34
+  retries: 2
+  quality: excellent
