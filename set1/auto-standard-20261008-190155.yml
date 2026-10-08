@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:01:55
+version: '1.93'
+environment: production
+
+service:
+  name: jwflycpq
+  port: 3739
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 2
+  quality: standard
