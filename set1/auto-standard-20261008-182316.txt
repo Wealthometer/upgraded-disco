@@ -1,0 +1,5 @@
+﻿[0] 18:23:16 - ohbvwgdiprt - OK
+[1] 18:23:16 - psjgithxudl - ERROR
+[2] 18:23:16 - nqizyd - OK
+[3] 18:23:16 - csdxtoamy - SKIPPED
+[4] 18:23:16 - kmhjfqg - ERROR
