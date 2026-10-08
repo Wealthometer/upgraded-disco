@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 11:53:24
+version: '1.6'
+environment: development
+
+service:
+  name: spcegtlh
+  port: 3712
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 19
+  retries: 3
+  quality: excellent
