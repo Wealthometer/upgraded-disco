@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:13:34
+version: '1.80'
+environment: production
+
+service:
+  name: mgzorydq
+  port: 3964
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 33
+  retries: 2
+  quality: excellent
