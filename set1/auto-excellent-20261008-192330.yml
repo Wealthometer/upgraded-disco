@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:23:30
+version: '1.77'
+environment: staging
+
+service:
+  name: zyadrhxm
+  port: 3634
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 27
+  retries: 3
+  quality: excellent
