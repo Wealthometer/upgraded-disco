@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 10:12:41
+version: '1.62'
+environment: staging
+
+service:
+  name: wqxsjuhe
+  port: 3391
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 50
+  retries: 3
+  quality: excellent
