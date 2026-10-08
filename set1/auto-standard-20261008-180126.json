@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T18:01:26",
+        "branch": "bugfix/optimize-service-2002",
+        "version": "1.18.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 374,
+        "type": "user",
+        "payload": "OIcmfFxTtBuMkQpewhdGJrqjbslZagoN",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
