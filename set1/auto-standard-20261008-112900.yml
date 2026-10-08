@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 11:29:00
+version: '1.24'
+environment: staging
+
+service:
+  name: wumfxnkp
+  port: 3688
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 2
+  quality: standard
