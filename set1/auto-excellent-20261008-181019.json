@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T18:10:19",
+        "branch": "release/fix-api-4748",
+        "version": "1.61.1",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 4207,
+        "type": "event",
+        "payload": "EurevNRMLZkCsayJTbwjGhIpOxAdSUVc",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
