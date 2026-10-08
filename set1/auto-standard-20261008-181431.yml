@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 18:14:31
+version: '1.84'
+environment: development
+
+service:
+  name: knwayifq
+  port: 3378
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 24
+  retries: 4
+  quality: standard
