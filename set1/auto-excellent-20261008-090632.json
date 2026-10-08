@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T09:06:32",
+        "branch": "bugfix/add-handler-3000",
+        "version": "1.35.5",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 9808,
+        "type": "user",
+        "payload": "pQzoCRGergHxFudILjVXvnSYhWbiEwtB",
+        "priority": 3
+,
+        "status": "active"
+    }
+}
