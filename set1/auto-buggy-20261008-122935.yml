@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 12:29:35
+version: '1.34'
+environment: development
+
+service:
+  name: dkgfcrvq
+  port: 3234
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 18
+  retries: 3
+  quality: buggy
