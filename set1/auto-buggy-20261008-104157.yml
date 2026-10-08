@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 10:41:57
+version: '1.62'
+environment: development
+
+service:
+  name: bakjfvhm
+  port: 3837
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 37
+  retries: 4
+  quality: buggy
