@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 17:48:18
+version: '1.74'
+environment: development
+
+service:
+  name: qvpcsmdo
+  port: 3288
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 49
+  retries: 1
+  quality: standard
