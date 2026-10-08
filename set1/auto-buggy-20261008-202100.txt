@@ -1,0 +1,6 @@
+﻿[0] 20:21:00 - pumrw - OK
+[1] 20:21:00 - taudyolfvzi - OK
+[2] 20:21:00 - wijceab - COMPLETE
+[3] 20:21:00 - wijtkhqrpg - SKIPPED
+[4] 20:21:00 - ilruf - COMPLETE
+[5] 20:21:00 - zakbics - SKIPPED
