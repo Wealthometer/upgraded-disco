@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T11:15:19",
+        "branch": "release/update-config-6426",
+        "version": "1.45.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8547,
+        "type": "user",
+        "payload": "aoIeFMTqWOvAjRxYQBcEDJVlCnukzhri",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
