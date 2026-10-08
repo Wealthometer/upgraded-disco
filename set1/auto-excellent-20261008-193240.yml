@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:32:40
+version: '1.86'
+environment: production
+
+service:
+  name: nbywemza
+  port: 3754
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 43
+  retries: 1
+  quality: excellent
