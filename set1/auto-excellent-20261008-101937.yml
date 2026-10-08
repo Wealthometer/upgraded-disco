@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 10:19:37
+version: '1.13'
+environment: staging
+
+service:
+  name: lsexakrw
+  port: 3435
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 39
+  retries: 3
+  quality: excellent
