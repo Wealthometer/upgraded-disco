@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 09:35:51
+version: '1.4'
+environment: development
+
+service:
+  name: vxfpmdgb
+  port: 3563
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 3
+  quality: excellent
