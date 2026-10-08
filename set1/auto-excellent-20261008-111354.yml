@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 11:13:54
+version: '1.9'
+environment: development
+
+service:
+  name: anfchmxi
+  port: 3183
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 17
+  retries: 4
+  quality: excellent
