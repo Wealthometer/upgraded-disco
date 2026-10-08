@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:38:18
+version: '1.9'
+environment: development
+
+service:
+  name: cumlwsoi
+  port: 3667
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 3
+  quality: excellent
