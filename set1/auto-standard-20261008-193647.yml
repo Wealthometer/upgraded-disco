@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:36:47
+version: '1.7'
+environment: production
+
+service:
+  name: wnmylugf
+  port: 3643
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 4
+  quality: standard
