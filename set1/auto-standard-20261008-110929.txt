@@ -1,0 +1,6 @@
+﻿[0] 11:09:29 - faztrckjmv - ERROR
+[1] 11:09:29 - fzusmk - ERROR
+[2] 11:09:29 - recbtp - SKIPPED
+[3] 11:09:29 - jkubgect - SKIPPED
+[4] 11:09:29 - jdnimw - ERROR
+[5] 11:09:29 - sguryhoi - ERROR
