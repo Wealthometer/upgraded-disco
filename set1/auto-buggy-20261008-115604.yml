@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 11:56:04
+version: '1.87'
+environment: staging
+
+service:
+  name: fhreswbc
+  port: 3557
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 28
+  retries: 3
+  quality: buggy
