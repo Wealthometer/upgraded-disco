@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 18:50:54
+version: '1.96'
+environment: staging
+
+service:
+  name: ijmtqnkc
+  port: 3678
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 55
+  retries: 4
+  quality: buggy
