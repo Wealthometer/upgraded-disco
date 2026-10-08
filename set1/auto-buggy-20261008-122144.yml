@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 12:21:44
+version: '1.19'
+environment: development
+
+service:
+  name: rkivpyco
+  port: 3028
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 3
+  quality: buggy
