@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 10:57:34
+version: '1.65'
+environment: production
+
+service:
+  name: csmhpkbx
+  port: 3329
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 3
+  quality: buggy
