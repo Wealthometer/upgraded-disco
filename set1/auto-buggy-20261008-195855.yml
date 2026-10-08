@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 19:58:55
+version: '1.7'
+environment: staging
+
+service:
+  name: mzklyvju
+  port: 3275
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 39
+  retries: 4
+  quality: buggy
