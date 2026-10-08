@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 11:30:29
+version: '1.75'
+environment: development
+
+service:
+  name: rcfpleas
+  port: 3378
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 1
+  quality: buggy
