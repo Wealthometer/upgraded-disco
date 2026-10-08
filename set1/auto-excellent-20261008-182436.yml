@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 18:24:36
+version: '1.26'
+environment: production
+
+service:
+  name: ecwprokh
+  port: 3775
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 2
+  quality: excellent
