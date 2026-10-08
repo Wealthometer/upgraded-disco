@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 10:46:22
+version: '1.84'
+environment: development
+
+service:
+  name: fjmutoks
+  port: 3793
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 11
+  retries: 2
+  quality: standard
