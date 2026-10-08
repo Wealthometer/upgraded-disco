@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 19:04:55
+version: '1.78'
+environment: development
+
+service:
+  name: nrsveuic
+  port: 3103
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 2
+  quality: buggy
