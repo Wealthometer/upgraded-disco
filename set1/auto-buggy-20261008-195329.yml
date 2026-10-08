@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 19:53:29
+version: '1.26'
+environment: production
+
+service:
+  name: gzykjrwq
+  port: 3933
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 2
+  quality: buggy
