@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 18:07:22
+version: '1.3'
+environment: staging
+
+service:
+  name: wdqtsrei
+  port: 3567
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 3
+  quality: excellent
