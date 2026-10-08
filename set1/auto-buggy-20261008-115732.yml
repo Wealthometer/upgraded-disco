@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 11:57:32
+version: '1.54'
+environment: development
+
+service:
+  name: ctklmwpz
+  port: 3752
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 20
+  retries: 2
+  quality: buggy
