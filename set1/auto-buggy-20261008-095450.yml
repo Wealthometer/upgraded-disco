@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 09:54:50
+version: '1.2'
+environment: production
+
+service:
+  name: jhnmbtrs
+  port: 3180
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 16
+  retries: 3
+  quality: buggy
