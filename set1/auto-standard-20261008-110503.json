@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T11:05:03",
+        "branch": "bugfix/fix-handler-9393",
+        "version": "1.93.9",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8359,
+        "type": "event",
+        "payload": "fEairBAotLuFNIwgeJXVhTmSpYydcksq",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
