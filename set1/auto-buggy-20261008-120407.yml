@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 12:04:07
+version: '1.96'
+environment: production
+
+service:
+  name: gsxvjfpa
+  port: 3664
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 21
+  retries: 2
+  quality: buggy
