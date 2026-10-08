@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 17:49:42
+version: '1.31'
+environment: development
+
+service:
+  name: gxocfauw
+  port: 3753
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 13
+  retries: 1
+  quality: standard
