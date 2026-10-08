@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 18:31:45
+version: '1.31'
+environment: production
+
+service:
+  name: hrbsmwiz
+  port: 3861
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 52
+  retries: 1
+  quality: buggy
