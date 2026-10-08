@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 19:10:38
+version: '1.75'
+environment: development
+
+service:
+  name: uxocmgve
+  port: 3542
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 2
+  quality: standard
