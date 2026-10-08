@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-08 10:00:11
+version: '1.39'
+environment: staging
+
+service:
+  name: rqhktayu
+  port: 3481
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 39
+  retries: 1
+  quality: standard
