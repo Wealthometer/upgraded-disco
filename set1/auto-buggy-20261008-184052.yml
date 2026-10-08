@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 18:40:52
+version: '1.48'
+environment: development
+
+service:
+  name: hnlcrgoy
+  port: 3517
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 14
+  retries: 3
+  quality: buggy
