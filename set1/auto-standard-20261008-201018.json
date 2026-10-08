@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T20:10:18",
+        "branch": "chore/fix-utils-6339",
+        "version": "1.97.2",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 5097,
+        "type": "metric",
+        "payload": "eEunQRJDICmPbZqVfWraYxhUyOGLvjAc",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
