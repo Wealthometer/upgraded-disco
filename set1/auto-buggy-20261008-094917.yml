@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 09:49:17
+version: '1.47'
+environment: development
+
+service:
+  name: ihvmqrtg
+  port: 3429
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 34
+  retries: 3
+  quality: buggy
