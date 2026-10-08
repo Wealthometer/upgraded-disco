@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-08T18:13:06",
+        "branch": "hotfix/add-utils-3699",
+        "version": "1.28.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 3849,
+        "type": "user",
+        "payload": "LydbIQXDaFepHuTYcizgWSCAKokhnlRP",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
