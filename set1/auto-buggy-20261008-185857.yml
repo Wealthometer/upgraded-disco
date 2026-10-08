@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-08 18:58:57
+version: '1.42'
+environment: development
+
+service:
+  name: epwibshm
+  port: 3525
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 26
+  retries: 3
+  quality: buggy
