@@ -1,0 +1,8 @@
+﻿[0] 09:19:27 - gzsfjwvnqr - OK
+[1] 09:19:27 - gcyvrwneds - OK
+[2] 09:19:27 - dgufsmeorwl - ERROR
+[3] 09:19:27 - ruygvjcipt - ERROR
+[4] 09:19:27 - godsqzhpem - PENDING
+[5] 09:19:27 - nluoewvkm - ERROR
+[6] 09:19:27 - nvlyaeo - OK
+[7] 09:19:27 - ilcabr - ERROR
