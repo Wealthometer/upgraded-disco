@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 08:10:59
+version: '1.0'
+environment: staging
+
+service:
+  name: cptyudlm
+  port: 3904
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 39
+  retries: 2
+  quality: standard
