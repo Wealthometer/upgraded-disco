@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 07:47:38
+version: '1.24'
+environment: production
+
+service:
+  name: jkmvploy
+  port: 3704
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 4
+  quality: buggy
