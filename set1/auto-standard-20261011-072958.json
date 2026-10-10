@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-11T07:29:58",
+        "branch": "hotfix/fix-utils-1142",
+        "version": "1.58.6",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4786,
+        "type": "event",
+        "payload": "buSaNhOYzMdrjHfpREynDmZGTJsqLxov",
+        "priority": 0
+,
+        "status": "inactive"
+    }
+}
