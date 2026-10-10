@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 08:15:37
+version: '1.36'
+environment: staging
+
+service:
+  name: wavyplej
+  port: 3164
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: standard
