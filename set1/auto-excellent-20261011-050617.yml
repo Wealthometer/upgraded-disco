@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 05:06:17
+version: '1.50'
+environment: development
+
+service:
+  name: qntexyhi
+  port: 3785
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 2
+  quality: excellent
