@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 07:49:05
+version: '1.50'
+environment: development
+
+service:
+  name: tqglapxe
+  port: 3161
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 42
+  retries: 1
+  quality: buggy
