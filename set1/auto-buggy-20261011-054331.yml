@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 05:43:31
+version: '1.36'
+environment: staging
+
+service:
+  name: aitpewmb
+  port: 3285
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 39
+  retries: 4
+  quality: buggy
