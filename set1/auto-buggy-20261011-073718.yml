@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 07:37:18
+version: '1.46'
+environment: development
+
+service:
+  name: owedgnqu
+  port: 3206
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 4
+  quality: buggy
