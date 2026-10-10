@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 06:26:04
+version: '1.15'
+environment: production
+
+service:
+  name: vjyuotnh
+  port: 3867
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 3
+  quality: standard
