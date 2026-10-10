@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 05:59:52
+version: '1.54'
+environment: production
+
+service:
+  name: dylmtrnx
+  port: 3583
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 2
+  quality: standard
