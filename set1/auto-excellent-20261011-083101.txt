@@ -1,0 +1,6 @@
+﻿[0] 08:31:01 - pqwbcne - ERROR
+[1] 08:31:01 - suegmobrytw - OK
+[2] 08:31:01 - qsxkfevpg - ERROR
+[3] 08:31:01 - btwdlkproa - OK
+[4] 08:31:01 - wcazkfi - SKIPPED
+[5] 08:31:01 - avkfj - SKIPPED
