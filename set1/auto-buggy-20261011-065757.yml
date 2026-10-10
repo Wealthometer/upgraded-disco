@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 06:57:57
+version: '1.62'
+environment: production
+
+service:
+  name: ktgipfyr
+  port: 3943
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 4
+  quality: buggy
