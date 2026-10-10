@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 05:42:09
+version: '1.73'
+environment: staging
+
+service:
+  name: ixwdvzjk
+  port: 3574
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 44
+  retries: 4
+  quality: buggy
