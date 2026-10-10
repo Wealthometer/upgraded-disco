@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 08:01:35
+version: '1.40'
+environment: development
+
+service:
+  name: updngzyk
+  port: 3208
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: standard
