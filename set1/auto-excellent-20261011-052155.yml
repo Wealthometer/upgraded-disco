@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 05:21:55
+version: '1.91'
+environment: staging
+
+service:
+  name: tlscvzxw
+  port: 3784
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 54
+  retries: 4
+  quality: excellent
