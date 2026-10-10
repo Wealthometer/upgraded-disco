@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 08:22:45
+version: '1.54'
+environment: production
+
+service:
+  name: etdisufx
+  port: 3204
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 57
+  retries: 4
+  quality: standard
