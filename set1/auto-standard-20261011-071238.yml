@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 07:12:38
+version: '1.59'
+environment: staging
+
+service:
+  name: lwcmevbs
+  port: 3533
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 26
+  retries: 3
+  quality: standard
