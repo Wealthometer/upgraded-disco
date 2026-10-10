@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 07:02:00
+version: '1.65'
+environment: production
+
+service:
+  name: krvilnxq
+  port: 3476
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 27
+  retries: 3
+  quality: excellent
