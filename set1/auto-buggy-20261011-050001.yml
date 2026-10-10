@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 05:00:01
+version: '1.70'
+environment: staging
+
+service:
+  name: tgyhnosm
+  port: 3012
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 1
+  quality: buggy
