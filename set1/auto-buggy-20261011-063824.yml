@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 06:38:24
+version: '1.78'
+environment: staging
+
+service:
+  name: cvztwjed
+  port: 3203
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 4
+  quality: buggy
