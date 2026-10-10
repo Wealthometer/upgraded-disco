@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-11 04:55:02
+version: '1.57'
+environment: staging
+
+service:
+  name: cmdgivxl
+  port: 3932
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 1
+  quality: excellent
