@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 05:35:28
+version: '1.59'
+environment: staging
+
+service:
+  name: wvdklgtn
+  port: 3714
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 53
+  retries: 3
+  quality: buggy
