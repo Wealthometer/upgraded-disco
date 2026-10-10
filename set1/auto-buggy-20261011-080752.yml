@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-11 08:07:52
+version: '1.78'
+environment: production
+
+service:
+  name: lneqdwjc
+  port: 3600
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 18
+  retries: 1
+  quality: buggy
