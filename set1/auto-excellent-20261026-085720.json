@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-26T08:57:20",
+        "branch": "chore/fix-api-3705",
+        "version": "1.92.3",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 4430,
+        "type": "user",
+        "payload": "NoMKirgcEGHRLwxImCDXQPZzuOplUSas",
+        "priority": 0
+,
+        "status": "active"
+    }
+}
