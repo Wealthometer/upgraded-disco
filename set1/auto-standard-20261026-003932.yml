@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 00:39:32
+version: '1.18'
+environment: production
+
+service:
+  name: upksgifr
+  port: 3775
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 22
+  retries: 4
+  quality: standard
