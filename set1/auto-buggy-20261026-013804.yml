@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 01:38:04
+version: '1.39'
+environment: staging
+
+service:
+  name: ycrzdqex
+  port: 3299
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 11
+  retries: 4
+  quality: buggy
