@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 21:14:36
+version: '1.31'
+environment: production
+
+service:
+  name: jfisexgw
+  port: 3828
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 17
+  retries: 4
+  quality: standard
