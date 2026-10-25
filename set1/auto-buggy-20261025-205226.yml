@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 20:52:26
+version: '1.55'
+environment: production
+
+service:
+  name: qdrawsoj
+  port: 3707
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 38
+  retries: 4
+  quality: buggy
