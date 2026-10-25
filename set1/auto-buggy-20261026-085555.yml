@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 08:55:55
+version: '1.76'
+environment: production
+
+service:
+  name: uaidfoyp
+  port: 3500
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 3
+  quality: buggy
