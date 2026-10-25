@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 19:33:59
+version: '1.14'
+environment: development
+
+service:
+  name: qivepxhl
+  port: 3596
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 21
+  retries: 3
+  quality: standard
