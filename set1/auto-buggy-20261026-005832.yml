@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 00:58:32
+version: '1.73'
+environment: production
+
+service:
+  name: jkpqygdx
+  port: 3114
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 4
+  quality: buggy
