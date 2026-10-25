@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 07:00:33
+version: '1.47'
+environment: staging
+
+service:
+  name: bcounljt
+  port: 3108
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 30
+  retries: 1
+  quality: standard
