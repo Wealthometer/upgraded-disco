@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 16:45:11
+version: '1.34'
+environment: development
+
+service:
+  name: xvdheuya
+  port: 3913
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 34
+  retries: 1
+  quality: standard
