@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 20:38:03
+version: '1.33'
+environment: development
+
+service:
+  name: aqxofygd
+  port: 3867
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 2
+  quality: buggy
