@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 06:01:41
+version: '1.77'
+environment: production
+
+service:
+  name: iosvzamd
+  port: 3969
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 2
+  quality: standard
