@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 06:15:35
+version: '1.80'
+environment: development
+
+service:
+  name: iuxawvgs
+  port: 3789
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 50
+  retries: 4
+  quality: standard
