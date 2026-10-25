@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 17:51:04
+version: '1.65'
+environment: development
+
+service:
+  name: lhvjxfno
+  port: 3454
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 1
+  quality: standard
