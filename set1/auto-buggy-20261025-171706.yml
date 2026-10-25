@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 17:17:06
+version: '1.63'
+environment: development
+
+service:
+  name: jzhxcgow
+  port: 3475
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: buggy
