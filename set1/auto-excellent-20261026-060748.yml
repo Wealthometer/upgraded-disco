@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 06:07:48
+version: '1.75'
+environment: staging
+
+service:
+  name: jwsighyz
+  port: 3463
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 55
+  retries: 3
+  quality: excellent
