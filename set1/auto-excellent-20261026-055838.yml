@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 05:58:38
+version: '1.48'
+environment: production
+
+service:
+  name: pvucswzm
+  port: 3502
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 12
+  retries: 4
+  quality: excellent
