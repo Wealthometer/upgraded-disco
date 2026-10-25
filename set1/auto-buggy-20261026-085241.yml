@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 08:52:41
+version: '1.93'
+environment: staging
+
+service:
+  name: kblyupjd
+  port: 3024
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 3
+  quality: buggy
