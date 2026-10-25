@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 21:05:51
+version: '1.62'
+environment: development
+
+service:
+  name: badkcvih
+  port: 3793
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 3
+  quality: buggy
