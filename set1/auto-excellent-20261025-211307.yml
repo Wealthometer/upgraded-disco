@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 21:13:07
+version: '1.40'
+environment: development
+
+service:
+  name: vgxncfuw
+  port: 3185
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 15
+  retries: 4
+  quality: excellent
