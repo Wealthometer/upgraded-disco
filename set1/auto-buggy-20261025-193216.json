@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T19:32:16",
+        "branch": "hotfix/add-handler-5557",
+        "version": "1.44.1",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 4830,
+        "type": "event",
+        "payload": "ULnfjvVwNiqQcEsBTuXzbRCFmdohOgWr",
+        "priority": 3
+    }
+}
