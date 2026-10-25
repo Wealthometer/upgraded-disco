@@ -1,0 +1,14 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T16:11:18",
+        "branch": "release/add-service-2833",
+        "version": "1.83.9",
+        "quality": "buggy"
+    },
+    "data": {
+        "id": 9809,
+        "type": "user",
+        "payload": "eFLRBCtMwrqUINpluSWQKPosgjzfXxDA",
+        "priority": 3
+    }
+}
