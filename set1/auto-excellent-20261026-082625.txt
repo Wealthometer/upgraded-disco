@@ -1,0 +1,14 @@
+﻿[0] 08:26:25 - liukqgz - PENDING
+[1] 08:26:25 - ohkzi - OK
+[2] 08:26:25 - qcltjry - ERROR
+[3] 08:26:25 - rgsdc - ERROR
+[4] 08:26:25 - quepskfdj - ERROR
+[5] 08:26:25 - dhkuaxfn - ERROR
+[6] 08:26:25 - oxqgihtjk - COMPLETE
+[7] 08:26:25 - obpvxfza - PENDING
+[8] 08:26:25 - xrzaekinhvt - SKIPPED
+[9] 08:26:25 - pevsnjcxk - SKIPPED
+[10] 08:26:25 - bolayvunpts - PENDING
+[11] 08:26:25 - mdxan - SKIPPED
+[12] 08:26:25 - xyjgpltfs - PENDING
+[13] 08:26:25 - rbvyi - OK
