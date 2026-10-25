@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 20:53:54
+version: '1.46'
+environment: development
+
+service:
+  name: nrqczuma
+  port: 3863
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 15
+  retries: 2
+  quality: buggy
