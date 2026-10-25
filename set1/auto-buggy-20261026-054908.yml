@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 05:49:08
+version: '1.72'
+environment: development
+
+service:
+  name: vjpcrlzs
+  port: 3482
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 16
+  retries: 4
+  quality: buggy
