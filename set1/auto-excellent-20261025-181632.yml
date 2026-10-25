@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 18:16:32
+version: '1.37'
+environment: development
+
+service:
+  name: muicnfwp
+  port: 3155
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 48
+  retries: 1
+  quality: excellent
