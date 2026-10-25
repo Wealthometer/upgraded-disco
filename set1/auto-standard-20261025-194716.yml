@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 19:47:16
+version: '1.43'
+environment: development
+
+service:
+  name: yhvfrtjd
+  port: 3076
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 2
+  quality: standard
