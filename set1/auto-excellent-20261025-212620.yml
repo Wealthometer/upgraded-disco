@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 21:26:20
+version: '1.73'
+environment: staging
+
+service:
+  name: dtjvlzwy
+  port: 3390
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 58
+  retries: 1
+  quality: excellent
