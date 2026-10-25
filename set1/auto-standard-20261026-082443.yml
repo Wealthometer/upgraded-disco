@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 08:24:43
+version: '1.4'
+environment: development
+
+service:
+  name: hzjanopt
+  port: 3299
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 45
+  retries: 4
+  quality: standard
