@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 19:43:00
+version: '1.45'
+environment: production
+
+service:
+  name: agctfqxi
+  port: 3742
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 25
+  retries: 3
+  quality: standard
