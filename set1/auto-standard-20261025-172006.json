@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T17:20:06",
+        "branch": "hotfix/add-utils-7762",
+        "version": "1.99.1",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4947,
+        "type": "metric",
+        "payload": "zhJcxVYglAXtkaIruNWTUdDLCbZPSMoj",
+        "priority": 1
+,
+        "status": "active"
+    }
+}
