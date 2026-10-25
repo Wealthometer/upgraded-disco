@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 18:03:40
+version: '1.28'
+environment: development
+
+service:
+  name: ojhpkqng
+  port: 3292
+  replicas: 2
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 32
+  retries: 4
+  quality: buggy
