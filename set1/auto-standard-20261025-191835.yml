@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 19:18:35
+version: '1.59'
+environment: staging
+
+service:
+  name: dmnsxhji
+  port: 3281
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 30
+  retries: 4
+  quality: standard
