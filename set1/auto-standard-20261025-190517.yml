@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 19:05:17
+version: '1.41'
+environment: staging
+
+service:
+  name: xpcefgrh
+  port: 3716
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 18
+  retries: 3
+  quality: standard
