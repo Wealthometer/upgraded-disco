@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-26T08:46:51",
+        "branch": "chore/fix-service-7455",
+        "version": "1.20.1",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 6410,
+        "type": "event",
+        "payload": "mHkpInhyPLDtNJqfwxRVlgeMWUOrTBjc",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
