@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 20:18:15
+version: '1.5'
+environment: development
+
+service:
+  name: hsuczltb
+  port: 3479
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 42
+  retries: 3
+  quality: excellent
