@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 22:03:13
+version: '1.78'
+environment: production
+
+service:
+  name: dntkyvbf
+  port: 3697
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 3
+  quality: standard
