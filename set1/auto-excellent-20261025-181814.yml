@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 18:18:14
+version: '1.52'
+environment: production
+
+service:
+  name: vjgomekc
+  port: 3294
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 17
+  retries: 2
+  quality: excellent
