@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T20:16:46",
+        "branch": "hotfix/implement-utils-3284",
+        "version": "1.90.8",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 4947,
+        "type": "event",
+        "payload": "BYFsdguvtJxWLVUNljpGRiOEoXKkMePy",
+        "priority": 2
+,
+        "status": "inactive"
+    }
+}
