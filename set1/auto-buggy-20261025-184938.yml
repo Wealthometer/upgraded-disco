@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 18:49:38
+version: '1.26'
+environment: development
+
+service:
+  name: ngqpskvw
+  port: 3765
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 34
+  retries: 1
+  quality: buggy
