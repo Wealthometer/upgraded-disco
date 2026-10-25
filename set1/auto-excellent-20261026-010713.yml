@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 01:07:13
+version: '1.4'
+environment: development
+
+service:
+  name: yfaimzhj
+  port: 3507
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 47
+  retries: 4
+  quality: excellent
