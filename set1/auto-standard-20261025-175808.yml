@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 17:58:08
+version: '1.6'
+environment: development
+
+service:
+  name: sizcgwbn
+  port: 3221
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 28
+  retries: 4
+  quality: standard
