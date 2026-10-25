@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 19:51:39
+version: '1.41'
+environment: development
+
+service:
+  name: zsimefjy
+  port: 3564
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 52
+  retries: 4
+  quality: excellent
