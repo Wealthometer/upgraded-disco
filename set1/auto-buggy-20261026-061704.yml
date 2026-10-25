@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 06:17:04
+version: '1.52'
+environment: production
+
+service:
+  name: lwcoxgzq
+  port: 3128
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 31
+  retries: 3
+  quality: buggy
