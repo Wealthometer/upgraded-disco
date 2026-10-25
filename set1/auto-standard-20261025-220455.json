@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T22:04:55",
+        "branch": "refactor/fix-module-6062",
+        "version": "1.30.9",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8668,
+        "type": "user",
+        "payload": "cfgaGNXBnMECUSsemQKbVtzikPZIxOho",
+        "priority": 4
+,
+        "status": "inactive"
+    }
+}
