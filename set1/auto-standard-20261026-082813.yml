@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 08:28:13
+version: '1.41'
+environment: development
+
+service:
+  name: treghocp
+  port: 3245
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 26
+  retries: 4
+  quality: standard
