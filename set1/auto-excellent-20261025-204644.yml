@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 20:46:44
+version: '1.9'
+environment: development
+
+service:
+  name: etmsvzji
+  port: 3096
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 44
+  retries: 1
+  quality: excellent
