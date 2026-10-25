@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 21:22:04
+version: '1.94'
+environment: development
+
+service:
+  name: flwkhnym
+  port: 3718
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 1
+  quality: excellent
