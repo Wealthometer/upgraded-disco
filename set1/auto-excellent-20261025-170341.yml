@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 17:03:41
+version: '1.66'
+environment: staging
+
+service:
+  name: yuxpqzor
+  port: 3503
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 42
+  retries: 3
+  quality: excellent
