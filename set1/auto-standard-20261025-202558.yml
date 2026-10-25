@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 20:25:58
+version: '1.95'
+environment: development
+
+service:
+  name: jyinkclb
+  port: 3497
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 25
+  retries: 1
+  quality: standard
