@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T21:33:44",
+        "branch": "chore/optimize-handler-1084",
+        "version": "1.33.3",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 925,
+        "type": "user",
+        "payload": "roBCvFyqdHQnpUZYKwVGeWaJDzmMXTRf",
+        "priority": 3
+,
+        "status": "inactive"
+    }
+}
