@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 22:00:04
+version: '1.30'
+environment: production
+
+service:
+  name: turxbocp
+  port: 3610
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 3
+  quality: standard
