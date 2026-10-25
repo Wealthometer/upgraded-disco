@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 06:28:56
+version: '1.38'
+environment: staging
+
+service:
+  name: zpbkecso
+  port: 3826
+  replicas: 4
+
+settings:
+  debug: false
+  timeout: 58
+  retries: 4
+  quality: standard
