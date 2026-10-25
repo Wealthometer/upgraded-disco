@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 21:07:11
+version: '1.88'
+environment: production
+
+service:
+  name: dxnjovpk
+  port: 3991
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 29
+  retries: 4
+  quality: buggy
