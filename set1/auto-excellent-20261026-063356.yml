@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 06:33:56
+version: '1.70'
+environment: staging
+
+service:
+  name: ehroqglu
+  port: 3796
+  replicas: 1
+
+settings:
+  debug: true
+  timeout: 36
+  retries: 2
+  quality: excellent
