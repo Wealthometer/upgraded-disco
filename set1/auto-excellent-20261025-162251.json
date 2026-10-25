@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-25T16:22:51",
+        "branch": "hotfix/fix-service-5085",
+        "version": "1.70.5",
+        "quality": "excellent"
+    },
+    "data": {
+        "id": 8302,
+        "type": "user",
+        "payload": "VMPQaULxfDFuiCKbelJZXsqjpcWkgArG",
+        "priority": 1
+,
+        "status": "inactive"
+    }
+}
