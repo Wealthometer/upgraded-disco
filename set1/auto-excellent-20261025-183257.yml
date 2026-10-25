@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 18:32:58
+version: '1.36'
+environment: staging
+
+service:
+  name: wisumtrd
+  port: 3831
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 48
+  retries: 4
+  quality: excellent
