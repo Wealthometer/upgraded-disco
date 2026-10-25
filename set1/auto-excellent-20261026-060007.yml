@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 06:00:07
+version: '1.3'
+environment: production
+
+service:
+  name: xwprgljc
+  port: 3414
+  replicas: 3
+
+settings:
+  debug: true
+  timeout: 56
+  retries: 4
+  quality: excellent
