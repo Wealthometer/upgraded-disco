@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 17:59:47
+version: '1.33'
+environment: development
+
+service:
+  name: cnxioydp
+  port: 3640
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 42
+  retries: 3
+  quality: excellent
