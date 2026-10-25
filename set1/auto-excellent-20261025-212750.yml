@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 21:27:50
+version: '1.77'
+environment: development
+
+service:
+  name: kfqtzbnj
+  port: 3193
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 3
+  quality: excellent
