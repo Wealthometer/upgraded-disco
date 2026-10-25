@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 00:37:40
+version: '1.90'
+environment: production
+
+service:
+  name: fglpcnhz
+  port: 3196
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 30
+  retries: 3
+  quality: buggy
