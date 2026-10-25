@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-25 22:20:49
+version: '1.74'
+environment: development
+
+service:
+  name: bkhgupfx
+  port: 3086
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 32
+  retries: 3
+  quality: standard
