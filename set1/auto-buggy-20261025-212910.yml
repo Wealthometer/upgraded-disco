@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-25 21:29:10
+version: '1.90'
+environment: production
+
+service:
+  name: tizrmydj
+  port: 3438
+  replicas: 3
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 15
+  retries: 1
+  quality: buggy
