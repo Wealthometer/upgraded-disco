@@ -1,0 +1,6 @@
+﻿[0] 09:06:29 - ubcirnx - OK
+[1] 09:06:29 - jdicp - SKIPPED
+[2] 09:06:29 - hboalzdm - ERROR
+[3] 09:06:29 - rpgqowazlbe - ERROR
+[4] 09:06:29 - cipunvmt - ERROR
+[5] 09:06:29 - pmotzvs - PENDING
