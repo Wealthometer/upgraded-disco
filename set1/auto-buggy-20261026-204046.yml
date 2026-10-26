@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 20:40:46
+version: '1.5'
+environment: production
+
+service:
+  name: jkneqlud
+  port: 3053
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: false
+  timeout: 53
+  retries: 1
+  quality: buggy
