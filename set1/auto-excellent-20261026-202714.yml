@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 20:27:14
+version: '1.63'
+environment: development
+
+service:
+  name: ehqvumnp
+  port: 3189
+  replicas: 3
+
+settings:
+  debug: false
+  timeout: 12
+  retries: 2
+  quality: excellent
