@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-26T09:00:29",
+        "branch": "feature/fix-service-2390",
+        "version": "1.99.0",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 8573,
+        "type": "metric",
+        "payload": "NpwyQLYAFJvfGrbmUcOiBCsVZoxWTMEt",
+        "priority": 0
+,
+        "status": "inactive"
+    }
+}
