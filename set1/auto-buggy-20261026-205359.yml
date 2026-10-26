@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 20:53:59
+version: '1.18'
+environment: staging
+
+service:
+  name: mhiuerqg
+  port: 3997
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 4
+  quality: buggy
