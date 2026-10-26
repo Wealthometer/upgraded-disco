@@ -1,0 +1,16 @@
+﻿{
+    "metadata": {
+        "generated": "2026-10-26T20:55:26",
+        "branch": "chore/fix-service-1389",
+        "version": "1.98.5",
+        "quality": "standard"
+    },
+    "data": {
+        "id": 9200,
+        "type": "user",
+        "payload": "nNLJhyrcixMEtQdmkUwGeKAvspqXPgzT",
+        "priority": 2
+,
+        "status": "active"
+    }
+}
