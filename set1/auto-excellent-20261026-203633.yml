@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 20:36:33
+version: '1.92'
+environment: staging
+
+service:
+  name: iqpanldx
+  port: 3905
+  replicas: 2
+
+settings:
+  debug: false
+  timeout: 45
+  retries: 3
+  quality: excellent
