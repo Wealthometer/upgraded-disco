@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 18:26:19
+version: '1.32'
+environment: development
+
+service:
+  name: wencslvh
+  port: 3678
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 14
+  retries: 1
+  quality: standard
