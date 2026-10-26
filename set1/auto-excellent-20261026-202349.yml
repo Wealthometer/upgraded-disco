@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 20:23:49
+version: '1.53'
+environment: staging
+
+service:
+  name: ngdhkzuc
+  port: 3767
+  replicas: 2
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 1
+  quality: excellent
