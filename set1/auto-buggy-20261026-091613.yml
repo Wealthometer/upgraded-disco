@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 09:16:13
+version: '1.57'
+environment: development
+
+service:
+  name: fkdhqywr
+  port: 3092
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 51
+  retries: 3
+  quality: buggy
