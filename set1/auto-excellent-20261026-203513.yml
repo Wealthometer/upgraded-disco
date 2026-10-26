@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 20:35:13
+version: '1.61'
+environment: development
+
+service:
+  name: iwayepbf
+  port: 3399
+  replicas: 1
+
+settings:
+  debug: false
+  timeout: 13
+  retries: 4
+  quality: excellent
