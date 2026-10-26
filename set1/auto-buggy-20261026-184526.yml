@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 18:45:26
+version: '1.48'
+environment: production
+
+service:
+  name: iqmvnera
+  port: 3888
+  replicas: 1
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 30
+  retries: 1
+  quality: buggy
