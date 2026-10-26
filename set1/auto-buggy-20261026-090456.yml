@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 09:04:56
+version: '1.75'
+environment: production
+
+service:
+  name: oskxtrzc
+  port: 3059
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 29
+  retries: 4
+  quality: buggy
