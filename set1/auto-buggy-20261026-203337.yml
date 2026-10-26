@@ -1,0 +1,15 @@
+﻿# Generated: 2026-10-26 20:33:37
+version: '1.33'
+environment: production
+
+service:
+  name: gzcihyqk
+  port: 3620
+  replicas: 4
+  port: 'INVALID'
+
+settings:
+  debug: true
+  timeout: 31
+  retries: 1
+  quality: buggy
