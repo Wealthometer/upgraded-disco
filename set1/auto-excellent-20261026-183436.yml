@@ -1,0 +1,14 @@
+﻿# Generated: 2026-10-26 18:34:36
+version: '1.37'
+environment: production
+
+service:
+  name: gzcdysvl
+  port: 3947
+  replicas: 4
+
+settings:
+  debug: true
+  timeout: 10
+  retries: 1
+  quality: excellent
